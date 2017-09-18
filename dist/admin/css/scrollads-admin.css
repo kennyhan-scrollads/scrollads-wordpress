@@ -1,0 +1,30 @@
+.box_scrollads {}
+/* layout position */
+.box_scrollads .preview_ad {max-width: 417px; max-height: 776px; margin: 10px auto;}
+.box_scrollads .preview_wrap {position: relative;}
+.box_scrollads .preview_wrap iframe {position: absolute;width: 87.7%;height: 74.4%;left: 6.2%;top: 12.9%;}
+.box_scrollads .preview_wrap img {width: 100%;}
+.box_scrollads .line_text_position {width:87.7%;left:6.2%;border-top:2px solid #FF7A00;position:absolute;color:#FF7A00;text-align:right;}
+.box_scrollads .box_slider{padding:10px 0}
+.box_scrollads .tr_gray{background-color: #f9f9f9}
+.box_scrollads .box_btn{padding: 10px;clear: both;border-top: 1px solid #DDD;background: #F5F5F5 none repeat scroll 0% 0%;}
+/* common class */
+.box_scrollads .bold {font-weight:bold;}
+.box_scrollads .width_full{width:100%}
+.box_scrollads .width_30p{width:30%}
+.box_scrollads .mt_10{margin-top:10px;}
+.box_scrollads .text_important{color:#F00 !important;}
+/* css tooltip */
+.box_scrollads .tooltip {outline:none;text-decoration:none;display:inline;padding:0 20px 0 10px;font-weight:bold;color:#51a8f5;position:static;opacity: 1;}
+.box_scrollads .tooltip:hover {text-decoration:none;} 
+.box_scrollads .tooltip span {z-index:10;display:none;}
+.box_scrollads .tooltip:hover span{display:inline; position:absolute;}
+.box_scrollads .tooltip span {background: #d9f5ff;border: 3px solid #c2e1f5;padding:10px;margin-left:15px;margin-top:-15px;color:#000;font-weight:normal;}
+.box_scrollads .tooltip span:after, .box_scrollads .tooltip span:before {right: 100%;top: 50%;border: solid transparent;content: " ";height: 0;width: 0;position: absolute;pointer-events: none;}
+.box_scrollads .tooltip span:after {border-color: rgba(217, 245, 255, 0);border-right-color: #d9f5ff;border-width: 5px;margin-top: -5px;}
+.box_scrollads .tooltip span:before {border-color: rgba(194, 225, 245, 0);border-right-color: #c2e1f5;border-width: 9px;margin-top: -9px;}
+.box_scrollads .tooltip span{border-radius:4px;box-shadow: 5px 5px 8px #CCC;}
+/* dashboard */
+.box_scrollads .box_big {font-size: 5em;text-align:right}
+.box_scrollads .box_chart {height:500px;text-align:center}
+.box_scrollads .box_chart.box_empty {padding:250px 0}

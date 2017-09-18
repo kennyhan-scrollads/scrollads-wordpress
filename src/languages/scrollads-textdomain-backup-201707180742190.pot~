@@ -1,0 +1,616 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-18 07:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+#: class.scrollads-admin.php:165 class.scrollads-admin.php:165
+#: class.scrollads-admin.php:174 class.scrollads-admin.php:174
+msgid "Scrollads"
+msgstr ""
+
+#: class.scrollads-admin.php:166 class.scrollads-admin.php:166
+#: admin/views/dashboard.php:6
+msgid "통계"
+msgstr ""
+
+#: class.scrollads-admin.php:167 class.scrollads-admin.php:167
+#: admin/views/pointlist.php:6
+msgid "수익금 관리"
+msgstr ""
+
+#: class.scrollads-admin.php:168 class.scrollads-admin.php:168
+msgid "광고 설정"
+msgstr ""
+
+#: class.scrollads-admin.php:170 class.scrollads-admin.php:170
+msgid "등록 정보"
+msgstr ""
+
+#: class.scrollads-admin.php:360 admin/views/adconfig_tab_backup.php:28
+msgid "광고가 표시될 영역을 지정해주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:361 admin/views/properties.php:29
+#: admin/views/registration.php:29
+msgid "사이트 이름을 써주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:362 admin/views/properties.php:35
+#: admin/views/registration.php:35
+msgid "사이트 URL을 써주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:363
+msgid "사이트 키값이 없습니다. 웹페이지를 새로고침한 후 다시 등록해주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:364 admin/views/properties.php:21
+#: admin/views/registration.php:21
+msgid "이름을 써주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:365
+msgid "이메일을 써주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:366
+msgid "등록 했습니다."
+msgstr ""
+
+#: class.scrollads-admin.php:367 class.scrollads-admin.php:368
+msgid "등록하지 못했습니다. 잠시후 다시 시도해 주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:369 admin/views/adlist.php:54
+#: admin/views/adlist.php:122 admin/views/pointlist.php:65
+msgid "날짜"
+msgstr ""
+
+#: class.scrollads-admin.php:370 admin/views/dashboard.php:42
+msgid "콘텐츠 노출수"
+msgstr ""
+
+#: class.scrollads-admin.php:371
+msgid "페이지 노출수"
+msgstr ""
+
+#: class.scrollads-admin.php:372 class.scrollads-admin.php:380
+#: admin/views/dashboard.php:50
+msgid "클릭수"
+msgstr ""
+
+#: class.scrollads-admin.php:373
+msgid "콘텐츠 클릭률"
+msgstr ""
+
+#: class.scrollads-admin.php:374
+msgid "페이지 클릭률"
+msgstr ""
+
+#: class.scrollads-admin.php:375
+msgid "전환수"
+msgstr ""
+
+#: class.scrollads-admin.php:376
+msgid "콘텐츠 전환율"
+msgstr ""
+
+#: class.scrollads-admin.php:377
+msgid "페이지 전환율"
+msgstr ""
+
+#: class.scrollads-admin.php:378
+msgid "수익금액"
+msgstr ""
+
+#: class.scrollads-admin.php:379
+msgid "노출수"
+msgstr ""
+
+#: class.scrollads-admin.php:381
+msgid "클릭률(%)"
+msgstr ""
+
+#: class.scrollads-admin.php:382
+msgid "평균단가"
+msgstr ""
+
+#: class.scrollads-admin.php:383
+msgid "[[value]]번 노출"
+msgstr ""
+
+#: class.scrollads-admin.php:384
+msgid "[[value]]번 클릭"
+msgstr ""
+
+#: class.scrollads-admin.php:385
+msgid "[[value]]원 수익"
+msgstr ""
+
+#: class.scrollads-admin.php:386
+msgid "합계"
+msgstr ""
+
+#: class.scrollads-admin.php:387
+msgid "통계 데이터를 추출하는 도중 문제가 발생했습니다."
+msgstr ""
+
+#: class.scrollads-admin.php:388
+msgid "날짜를 지정해 통계데이터를 확인 해 주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:389
+msgid "검색 된 통계데이터가 없습니다."
+msgstr ""
+
+#: class.scrollads-admin.php:390
+msgid "출금완료"
+msgstr ""
+
+#: class.scrollads-admin.php:391
+msgid "반려"
+msgstr ""
+
+#: class.scrollads-admin.php:392
+msgid "취소"
+msgstr ""
+
+#: class.scrollads-admin.php:393
+msgid "대기중"
+msgstr ""
+
+#: class.scrollads-admin.php:394
+msgid "해당 요청이 처리중입니다."
+msgstr ""
+
+#: class.scrollads-admin.php:395
+msgid "잠시 후에 시도해주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:396
+msgid "접근 권한이 없습니다."
+msgstr ""
+
+#: class.scrollads-admin.php:397
+msgid "다시 로그인해주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:398
+msgid "알 수 없는 오류가 발생했습니다."
+msgstr ""
+
+#: class.scrollads-admin.php:399
+msgid "계속 해당오류가 발생하면, 관리자에게 알려주시기 바랍니다."
+msgstr ""
+
+#: class.scrollads-admin.php:456
+msgid "정보를 저장했습니다."
+msgstr ""
+
+#: class.scrollads-admin.php:461
+msgid "public/js/scrollads-config.js 파일을 저장하지 못했습니다. 파일에 쓰기 권한이 있는지 확인해주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:489
+msgid "출금 금액을 써주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:491
+msgid "출금 신청 금액이 출금 가능 금액보다 많습니다."
+msgstr ""
+
+#: class.scrollads-admin.php:493
+msgid "입금 받으실 Paypal 계정을 입력해주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:498
+msgid "출금 신청을 하지 못했습니다. 잠시후 시도해 주세요."
+msgstr ""
+
+#: class.scrollads-admin.php:500
+msgid "출금 신청을 했습니다."
+msgstr ""
+
+#: class.scrollads-admin.php:518
+msgid "{total_item_no}개의 아이템"
+msgstr ""
+
+#: class.scrollads-admin.php:528
+msgid "<span class=\"total-pages\">{total_page_no}</span> 의 {current_page_no}"
+msgstr ""
+
+#: admin/views/adconfig.php:6 admin/views/adlist.php:5 admin/views/config.php:3
+#: admin/views/dashboard.php:6 admin/views/pointlist.php:6
+#: admin/views/properties.php:6 admin/views/registration.php:6
+msgid "스크롤애드"
+msgstr ""
+
+#: admin/views/adconfig.php:6 admin/views/adconfig_tab_backup.php:4
+msgid "광고설정"
+msgstr ""
+
+#: admin/views/adconfig.php:16
+msgid "이미지 애니메이션 효과"
+msgstr ""
+
+#: admin/views/adconfig.php:18
+msgid "Flip"
+msgstr ""
+
+#: admin/views/adconfig.php:20
+msgid "Scroll"
+msgstr ""
+
+#: admin/views/adconfig.php:22
+msgid "이미지 광고가 바뀌는 애니메이션 효과를 선택하세요."
+msgstr ""
+
+#: admin/views/adconfig.php:27 admin/views/adconfig.php:88
+msgid "택스트 광고 전환위치"
+msgstr ""
+
+#: admin/views/adconfig.php:33
+msgid ""
+"택스트 광고 전환선 아래에 광고가 표시되고 위에는 원본이 표시됩니다.<br />아래 있던 광고는 광고 전환선 위로 올라가면 사라집니다. "
+"다시 아래로 내려오면 광고가 표시됩니다."
+msgstr ""
+
+#: admin/views/adconfig.php:38
+msgid "택스트 광고 밀도(%)"
+msgstr ""
+
+#: admin/views/adconfig.php:44
+msgid ""
+"택스트 광고의 표시량을 설정합니다.<br/>값이 커질수록 택스트 광고가 많아지고 광고 사이의 간격이 좁아집니다.<br/>기본값은 "
+"30입니다."
+msgstr ""
+
+#: admin/views/adconfig.php:49
+msgid "이미지 광고 전환위치"
+msgstr ""
+
+#: admin/views/adconfig.php:55
+msgid ""
+"이미지가 바뀌는 위치를 설정합니다.<br />이미지의 높이를 기준으로 작동하는 값으로, 값이 0일때는 이미지가 화면에서 등장하면 바뀝니다."
+" 값이 100이면 이미지의 높이만큼 더 올라가면 바뀌게 됩니다."
+msgstr ""
+
+#: admin/views/adconfig.php:60
+msgid "이미지 광고 간격"
+msgstr ""
+
+#: admin/views/adconfig.php:66 admin/views/adconfig_tab_backup.php:71
+#: admin/views/adconfig_tab_backup.php:104
+msgid ""
+"이미지 광고가 적용되는 간격을 설정합니다.<br/>값이 2일때는 1, 3, 5, 7, 9, ... 간격으로 광고가 적용됩니다.\n"
+"권장값은 2입니다."
+msgstr ""
+
+#: admin/views/adconfig.php:74 admin/views/adconfig_tab_backup.php:79
+#: admin/views/adconfig_tab_backup.php:112
+msgid "적용"
+msgstr ""
+
+#: admin/views/adconfig.php:84
+msgid "미리보기"
+msgstr ""
+
+#: admin/views/adconfig.php:92
+msgid "택스트 광고는 빨간색선 아래에 광고가 표시되고 위에는 원본이 표시됩니다."
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:10
+msgid "기본형"
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:11
+msgid "네이티브"
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:12
+msgid "댓글형"
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:13
+msgid "문단형"
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:26
+msgid "광고 영역 지정"
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:29
+msgid ""
+"광고가 표시될 영역을 지정해주세요. 글본문 영역을 선택하시는 것이 좋습니다. 기본값은 \".ads_area, body.single "
+"#content\"입니다.<br/>자세한 작성방법은 <a href=\"http://api.jquery."
+"com/category/selectors/\" target=\"_blank\">jQuery Selector</a>를 참고하시면 됩니다."
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:34
+msgid "광고 전환선 설정"
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:46
+msgid ""
+"광고 전환선 아래에 광고가 표시되고 위에는 원본이 표시됩니다.<br />아래 있던 광고는 광고 전환선 위로 올라가면 사라집니다. 다시 "
+"아래로 내려오면 광고가 표시됩니다."
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:54
+msgid "광고문구의 밀도(%) 설정"
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:60
+msgid ""
+"광고문구의 표시량을 설정합니다.<br/>값이 커질수록 광고문구의 수가 많아지고 광고 사이의 간격이 좁아집니다.<br/>기본값은 30입니다."
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:65
+msgid "광고의 이미지 간격 설정"
+msgstr ""
+
+#: admin/views/adconfig_tab_backup.php:98
+msgid "광고의 이미지 가이드라인 설정"
+msgstr ""
+
+#: admin/views/adlist.php:5
+msgid "광고관리"
+msgstr ""
+
+#: admin/views/adlist.php:40
+msgid "수입 내역"
+msgstr ""
+
+#: admin/views/adlist.php:55 admin/views/adlist.php:123
+#: admin/views/pointlist.php:66
+msgid "금액($)"
+msgstr ""
+
+#: admin/views/adlist.php:56 admin/views/adlist.php:124
+#: admin/views/pointlist.php:67
+msgid "상태"
+msgstr ""
+
+#: admin/views/adlist.php:57
+msgid "수입원"
+msgstr ""
+
+#: admin/views/adlist.php:101
+msgid "출금 내역"
+msgstr ""
+
+#: admin/views/adlist.php:107
+msgid "출금 가능 금액:"
+msgstr ""
+
+#: admin/views/adlist.php:109
+msgid "금액을"
+msgstr ""
+
+#: admin/views/adlist.php:109
+msgid "출금신청"
+msgstr ""
+
+#: admin/views/adlist.php:125 admin/views/pointlist.php:68
+msgid "수신자"
+msgstr ""
+
+#: admin/views/dashboard.php:11
+msgid "통계 기간 설정"
+msgstr ""
+
+#: admin/views/dashboard.php:13
+msgid "시작날짜"
+msgstr ""
+
+#: admin/views/dashboard.php:15
+msgid "종료날짜"
+msgstr ""
+
+#: admin/views/dashboard.php:18
+msgid "조회"
+msgstr ""
+
+#: admin/views/dashboard.php:26
+msgid "포인트"
+msgstr ""
+
+#: admin/views/dashboard.php:34
+msgid "수익"
+msgstr ""
+
+#: admin/views/dashboard.php:58
+msgid "클릭률"
+msgstr ""
+
+#: admin/views/dashboard.php:70
+msgid "일별 통계"
+msgstr ""
+
+#: admin/views/dashboard.php:89
+msgid "일별 상세 정보"
+msgstr ""
+
+#: admin/views/dashboard.php:95
+msgid "날짜 "
+msgstr ""
+
+#: admin/views/dashboard.php:96
+msgid "수익금액 "
+msgstr ""
+
+#: admin/views/dashboard.php:97
+msgid "노출수 "
+msgstr ""
+
+#: admin/views/dashboard.php:98
+msgid "클릭수 "
+msgstr ""
+
+#: admin/views/dashboard.php:99
+msgid "클릭률(%) "
+msgstr ""
+
+#: admin/views/dashboard.php:100
+msgid "평균단가 "
+msgstr ""
+
+#: admin/views/dashboard.php:105
+msgid "결과가 없습니다. "
+msgstr ""
+
+#: admin/views/dashboard.php:118
+msgid "노출수 통계"
+msgstr ""
+
+#: admin/views/dashboard.php:122 admin/views/dashboard.php:147
+msgid "브라우저"
+msgstr ""
+
+#: admin/views/dashboard.php:123 admin/views/dashboard.php:148
+msgid "디바이스"
+msgstr ""
+
+#: admin/views/dashboard.php:124 admin/views/dashboard.php:149
+msgid "OS"
+msgstr ""
+
+#: admin/views/dashboard.php:128 admin/views/dashboard.php:131
+#: admin/views/dashboard.php:134 admin/views/dashboard.php:153
+#: admin/views/dashboard.php:156 admin/views/dashboard.php:159
+#: admin/views/pointlist.php:72
+msgid "내역이 없습니다."
+msgstr ""
+
+#: admin/views/dashboard.php:143
+msgid "클릭수 통계"
+msgstr ""
+
+#: admin/views/notice.php:3
+msgid "Close"
+msgstr ""
+
+#: admin/views/pointlist.php:15
+msgid "보유금액"
+msgstr ""
+
+#: admin/views/pointlist.php:18
+msgid "보유금액만큼 출금 가능합니다."
+msgstr ""
+
+#: admin/views/pointlist.php:22
+msgid "신청 금액($)"
+msgstr ""
+
+#: admin/views/pointlist.php:28
+msgid "$100 이상부터 신청 가능합니다."
+msgstr ""
+
+#: admin/views/pointlist.php:32 admin/views/properties.php:47
+msgid "Paypal E-mail"
+msgstr ""
+
+#: admin/views/pointlist.php:34
+msgid "입급 받을 페이발 이메일을 써주세요."
+msgstr ""
+
+#: admin/views/pointlist.php:35
+msgid ""
+"수익금은 페이팔 계정으로 보내드립니다. 페이팔 정책에 따라 수수료는 수신자 부담입니다. 자세한 수수료는 <a href=\"https:"
+"//www.paypal.com/kr/webapps/mpp/paypal-fees?locale.x=en\" target=\"_balnk\">"
+"페이팔 홈페이지</a>를 참고하세요."
+msgstr ""
+
+#: admin/views/pointlist.php:39
+msgid "받는 사람 이름"
+msgstr ""
+
+#: admin/views/pointlist.php:41
+msgid "입급 받는분의 이름을 써주세요."
+msgstr ""
+
+#: admin/views/pointlist.php:49
+msgid "출금 신청"
+msgstr ""
+
+#: admin/views/properties.php:6
+msgid "등록정보"
+msgstr ""
+
+#: admin/views/properties.php:13 admin/views/registration.php:13
+msgid "아이디(이메일)"
+msgstr ""
+
+#: admin/views/properties.php:15 admin/views/registration.php:15
+msgid "아이디(이메일)을 써주세요."
+msgstr ""
+
+#: admin/views/properties.php:19 admin/views/registration.php:19
+msgid "이름"
+msgstr ""
+
+#: admin/views/properties.php:27 admin/views/registration.php:27
+msgid "사이트 이름"
+msgstr ""
+
+#: admin/views/properties.php:33 admin/views/registration.php:33
+msgid "사이트 URL"
+msgstr ""
+
+#: admin/views/properties.php:39 admin/views/registration.php:39
+msgid "사이트 키"
+msgstr ""
+
+#: admin/views/properties.php:43
+msgid "사이트 키를 외부에 노출되지 않도록 주의해주세요."
+msgstr ""
+
+#: admin/views/properties.php:49
+msgid "출금 받을 페이팔 이메일을 써주세요."
+msgstr ""
+
+#: admin/views/properties.php:59
+msgid "저장"
+msgstr ""
+
+#: admin/views/registration.php:6
+msgid "사이트 등록"
+msgstr ""
+
+#: admin/views/registration.php:43
+msgid "사이트 키는 자동으로 생성됩니다."
+msgstr ""
+
+#: admin/views/registration.php:53
+msgid "등록"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The WordPress Plugin of Scrollads. Keep Your Current Ads. However, "
+"additional revenue with Scrollads"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/kennyhan-scrollads/scrollads-wordpress/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kenny Han"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/kennyhan-scrollads/"
+msgstr ""
